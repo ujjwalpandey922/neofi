@@ -1,5 +1,5 @@
 # neofi
-Purpose: Rhis Assignment is for the company NeoFi (Stage 1 - Take Home Assignment)
+Purpose: This Assignment is for the company NeoFi (Stage 1 - Take Home Assignment)
 Installation: Steps are as follow:
 1.Clone the repo to any local system(windows mostly)
 2.Open the file in any Editor of choice.
